@@ -1,0 +1,63 @@
+/*the height still to be adjusted accordingly to fit on page with minimal scrolling*/
+img {
+    width: 1272px;
+    height: 1300px;
+    }
+    
+    a {
+    font-family: 'Raleway';
+    font-size: 30px;
+    color: #333333;
+    text-transform: uppercase;
+    }
+    
+    .container {
+        position: relative;
+    }
+    .link1 {
+        position: absolute;
+        top: 531px;
+        left: 303px;
+    }
+
+    .link2 {
+        position: absolute;
+        top: 617px;
+        left: 170px;
+    }
+
+    .link3 {
+        position: absolute;
+        top: 704px;
+        left: 304px;
+    }
+
+    .link4 {
+        position: absolute;
+        top: 788px;
+        left: 200px;
+    }
+
+    .link5 {
+        position: absolute;
+        top: 873px;
+        left: 337px;
+    }
+
+    .link6 {
+        position: absolute;
+        top: 957px;
+        left: 290px;
+    }
+
+    .link7 {
+        position: absolute;
+        top: 1047px;
+        left: 120px;
+    }
+
+    .link8 {
+        position: absolute;
+        top: 1133px;
+        left: 160px;
+    }
